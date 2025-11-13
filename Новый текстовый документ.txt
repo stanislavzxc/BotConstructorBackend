@@ -1,0 +1,13 @@
+/app
+├── main.py (Flask app)
+├── bot/
+│   ├── __init__.py
+│   ├── telegram_bot.py
+│   └── handlers.py
+├── services/
+│   ├── validation.py
+│   ├── flow.py
+│   └── file_handler.py
+└── utils/
+    ├── config.py (для токенов, env)
+    └── helpers.py
