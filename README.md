@@ -6,7 +6,7 @@ A versatile and lightweight Flask-based backend framework for building Telegram 
 
 ## 🚀 Key Features
 
-* **No-Redis Architecture:** The entire bot workflow state machine and node layout are declared entirely within `data.json`.
+* **No-Redis && DB Architecture:** The entire bot workflow state machine and node layout are declared entirely within `data.json`.
 * **Node-Based System:** Chatbot dialogue trees and conditional branching are handled dynamically via a dedicated routing system.
 * **Minimalist Deployment:** Specially optimized to run reliably on resource-constrained servers or within lightweight Docker environments.
 * **Dynamic Placeholders:** Native support for template matching and variable substitution inside message bubbles.
