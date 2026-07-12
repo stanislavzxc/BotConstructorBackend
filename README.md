@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API">
 </p>
 A versatile and lightweight Flask-based backend framework for building Telegram chatbots. The architecture is engineered for effortless portability and multi-server exporting: it utilizes a JSON-driven configuration instead of a Redis dependency, allowing the entire application to spin up with a single command.
 
